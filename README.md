@@ -14,19 +14,19 @@ Linear Regression
 Decision Tree Regressor
 Random Forest Regressor
 Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+-Python
+-Pandas
+-NumPy
+-Matplotlib
+-Seaborn
+-Scikit-learn
+-Jupyter Notebook
 Evaluation Metrics
 
 The models are evaluated using:
 
-R² Score
-Mean Squared Error (MSE)
+-R² Score
+-Mean Squared Error (MSE)
 
 Among all models, the Random Forest Regressor achieved the best prediction accuracy on the dataset.
 
